@@ -1,7 +1,7 @@
 # Ultralytics ile Boş Park Yeri Tespiti Uygulaması
 
 <h2>Video</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c7A8A7NJrac" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=c7A8A7NJrac
 
 Bu proje, Ultralytics'in `solutions` kütüphanesi kullanılarak boş park yeri te
 spiti yapan bir video işleme uygulamasıdır. 
