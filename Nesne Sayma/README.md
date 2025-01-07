@@ -3,6 +3,7 @@
 <h2>Video</h2>
 https://www.youtube.com/watch?v=c7A8A7NJrac
 
+******************************************************************************
 Bu proje, Ultralytics'in `solutions` kütüphanesi kullanılarak boş park yeri te
 spiti yapan bir video işleme uygulamasıdır. 
 `yolo11n.pt` modeli ile nesne sayımı gerçekleştirilmiştir. 
