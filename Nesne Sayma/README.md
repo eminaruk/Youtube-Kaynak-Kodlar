@@ -1,6 +1,10 @@
 # Ultralytics ile Boş Park Yeri Tespiti Uygulaması
 
-Bu proje, Ultralytics'in `solutions` kütüphanesi kullanılarak boş park yeri tespiti yapan bir video işleme uygulamasıdır. 
+<h2>Video</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c7A8A7NJrac" frameborder="0" allowfullscreen></iframe>
+
+Bu proje, Ultralytics'in `solutions` kütüphanesi kullanılarak boş park yeri te
+spiti yapan bir video işleme uygulamasıdır. 
 `yolo11n.pt` modeli ile nesne sayımı gerçekleştirilmiştir. 
 
 ## Özellikler
@@ -35,8 +39,4 @@ Ana Mantık:
 - `solutions.ObjectCounter`: Ultralytics modelini kullanarak nesne sayımı gerçekleştirir.
 - `cv2.VideoWriter`: İşlenmiş video çıktısını kaydeder.
 
-YouTube Linki
-Bu projenin açıklamalı videosunu izlemek için aşağıdaki linke tıklayabilirsiniz:
-
-Ultralytics ile Boş Park Yeri Tespiti Uygulaması: https://www.youtube.com/watch?v=example
 
